@@ -1,5 +1,7 @@
 # Water-Supply-Business-Operations
 
+# Water-Supply-Business-Operations
+
 # Water Supply Business Operations: End-to-End Data Analysis and Visualization
 
 ## Executive Summary
@@ -105,7 +107,7 @@ jupyter notebook main_analysis.ipynb
 3. Follow the notebook cells to run the full analysis.
 
 ## Author
-**[Pranjal Patil]**  
+**Pranjal Patil**  
 _Data Scientist (Self-Employed)_
 
 ## License
@@ -114,5 +116,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Repository Link
 Access the full project here: [GitHub Repository](https://github.com/your-username/water-supply-analysis)
 
----
 
